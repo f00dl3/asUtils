@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=FindPhone
+Exec=/dev/shm/FindPhone.sh E
+Name[en_US]=FindPhoneE
